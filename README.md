@@ -1,4 +1,4 @@
-﻿# Claude Cowork â€” Guia Completo
+# Claude Cowork â€” Guia Completo
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -8,7 +8,7 @@
 
 Curso completo sobre **Claude Cowork** (Projects no claude.ai), recurso por recurso.
 
-**Site publicado:** https://inematds.github.io/cccoworkfull/
+**Site publicado:** https://linnoff88-dev.github.io/
 
 ## Estrutura
 
@@ -42,7 +42,7 @@ Curso completo sobre **Claude Cowork** (Projects no claude.ai), recurso por recu
 
 HTML estÃ¡tico com Tailwind CDN. Sem build step â€” abre direto no browser ou via GitHub Pages.
 
-PadrÃ£o visual: [INEMA.CLUB](https://inema.club).
+PadrÃ£o visual: [ARCKHÉ AI](https://ARCKHÉ AI).
 
 ## Estrutura de arquivos
 
